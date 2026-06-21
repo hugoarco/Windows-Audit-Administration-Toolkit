@@ -53,5 +53,5 @@ MIT License
 ## Estado
 
 ✅ Completado – Totalmente funcional y documentado
-
+## Estructura
 <img width="3208" height="2660" alt="diagram (1)" src="https://github.com/user-attachments/assets/313fc630-fe04-46b3-a97d-68c39d8ad649" />
