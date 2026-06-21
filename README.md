@@ -7,6 +7,8 @@ Toolkit completo para la preparación, auditoría y administración de sistemas 
   <img src="https://img.shields.io/badge/License-MIT-green">
   <img src="https://img.shields.io/badge/Status-Finished-brightgreen">
 </p>
+
+
 ## Descripción
 
 Este proyecto recoge todo el proceso de preparación y auditoría de un sistema Windows, desde la creación de usuarios y grupos hasta la generación de informes automatizados con scripts de PowerShell. Diseñado para entornos educativos (SMR/ASIR) pero funcional en entornos profesionales.
